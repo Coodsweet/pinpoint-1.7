@@ -1,0 +1,9 @@
+com/navercorp/pinpoint/common/annotations/InterfaceAudience$Public.class
+com/navercorp/pinpoint/common/annotations/InterfaceAudience$LimitedPrivate.class
+com/navercorp/pinpoint/common/annotations/VisibleForTesting.class
+com/navercorp/pinpoint/common/annotations/InterfaceStability$Unstable.class
+com/navercorp/pinpoint/common/annotations/InterfaceAudience$Private.class
+com/navercorp/pinpoint/common/annotations/InterfaceStability$Stable.class
+com/navercorp/pinpoint/common/annotations/InterfaceAudience.class
+com/navercorp/pinpoint/common/annotations/InterfaceStability$Evolving.class
+com/navercorp/pinpoint/common/annotations/InterfaceStability.class

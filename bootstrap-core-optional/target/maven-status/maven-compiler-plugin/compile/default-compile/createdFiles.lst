@@ -1,0 +1,3 @@
+com/navercorp/pinpoint/bootstrap/classloader/ParallelCapablePinpointURLClassLoader.class
+com/navercorp/pinpoint/bootstrap/util/jdk/JdkThreadLocalRandomFactory.class
+com/navercorp/pinpoint/bootstrap/classloader/ParallelCapablePinpointClassLoaderFactory.class

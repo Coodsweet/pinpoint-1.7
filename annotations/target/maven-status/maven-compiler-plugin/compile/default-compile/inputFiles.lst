@@ -1,0 +1,3 @@
+/usr/local/pinpoint-1.7.1/annotations/src/main/java/com/navercorp/pinpoint/common/annotations/VisibleForTesting.java
+/usr/local/pinpoint-1.7.1/annotations/src/main/java/com/navercorp/pinpoint/common/annotations/InterfaceAudience.java
+/usr/local/pinpoint-1.7.1/annotations/src/main/java/com/navercorp/pinpoint/common/annotations/InterfaceStability.java
